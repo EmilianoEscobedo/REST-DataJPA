@@ -1,4 +1,5 @@
-package com.example.RESTDataJPA;
+package com.example.RESTDataJPA.repositories;
+import com.example.RESTDataJPA.models.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

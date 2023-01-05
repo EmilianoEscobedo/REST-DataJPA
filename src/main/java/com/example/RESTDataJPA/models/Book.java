@@ -1,4 +1,4 @@
-package com.example.RESTDataJPA;
+package com.example.RESTDataJPA.models;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;
